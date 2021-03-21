@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4e7a59c6d8c71e996acdc701bd66c5d036d58dd04cbf911133061239c1a95942"
+            "sha256": "815f5ad439aa5696b3185ae5161051cf7a5789d843c3a97d7db7d61358cd3b9f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -39,6 +39,14 @@
             ],
             "index": "pypi",
             "version": "==3.12.2"
+        },
+        "pygments": {
+            "hashes": [
+                "sha256:2656e1a6edcdabf4275f9a3640db59fd5de107d88e8663c5d4e9a0fa62f77f94",
+                "sha256:534ef71d539ae97d4c3a4cf7d6f110f214b0e687e92f9cb9d2a3b0d3101289c8"
+            ],
+            "index": "pypi",
+            "version": "==2.8.1"
         },
         "pytz": {
             "hashes": [
